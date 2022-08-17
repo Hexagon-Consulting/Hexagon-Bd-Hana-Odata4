@@ -1,0 +1,7 @@
+IdStatus;StatusDescription
+1;Pending
+2;Approval
+3;Rejected
+4;Preliminary
+5;Cancelled
+6;Invalid
